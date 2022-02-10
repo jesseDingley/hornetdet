@@ -1,3 +1,3 @@
 # hornetdet
 
-hornetdet model weights and config
+hornetdet model weights and config.
